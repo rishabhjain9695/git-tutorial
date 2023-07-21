@@ -1,13 +1,13 @@
-import React from 'react'
+import React from "react";
 
 function ind() {
   return (
     <div>
-     heyeye
+      loremmeemme
       <h1>lorem</h1>
-      heye  
+      loremmm
     </div>
-  )
+  );
 }
 
-export default ind
+export default ind;
